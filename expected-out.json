@@ -1,0 +1,66 @@
+{
+  "id": "VImwaNTjhX",
+  "firtname": "Naruto",
+  "lastname": "Uzumaki",
+  "dob": "2008-05-20T10:36:37.747Z",
+  "address": {
+    "zipCode": "75001",
+    "street": "12 rue d'Ici",
+    "city": "Paris",
+    "countryCode": "FR"
+  },
+  "experiences": [{
+      "companyName": "Franprix",
+      "startDate": "2008-05-20T10:36:37.747Z",
+      "endDate": "2008-09-29T10:36:56.730Z",
+      "jobId": "2oHCbnlbCr"
+    },
+    {
+      "companyName": "Julie",
+      "startDate": "2011-03-10T11:37:33.075Z",
+      "endDate": "2012-11-22T11:37:40.995Z",
+      "jobId": "PrTjHr2xr2"
+    },
+    {
+      "companyName": "Ms mode",
+      "startDate": "2013-10-20T10:38:09.559Z",
+      "endDate": "2014-09-14T10:38:25.963Z",
+      "jobId": "PrTjHr2xr2"
+    },
+    {
+      "companyName": "Camaieu",
+      "startDate": "2014-03-18T11:38:46.102Z",
+      "endDate": "2014-11-23T11:38:56.250Z",
+      "jobId": "PrTjHr2xr2"
+    },
+    {
+      "companyName": "Eram",
+      "startDate": "2015-02-16T11:39:46.393Z",
+      "endDate": "2015-07-01T10:40:07.397Z",
+      "jobId": "PrTjHr2xr2"
+    },
+    {
+      "companyName": "Petit bateau",
+      "startDate": "2018-07-13T10:40:45.833Z",
+      "endDate": "2018-07-27T10:41:09.649Z",
+      "jobId": "PrTjHr2xr2"
+    },
+    {
+      "companyName": "Paul",
+      "startDate": "2018-10-03T10:41:45.226Z",
+      "endDate": "2018-10-29T11:41:57.703Z",
+      "jobId": "HTEPHqI5Pf"
+    }
+  ],
+  "certificates": [{
+    "date": "2014-07-07T10:42:54.532Z",
+    "certificate": "Economie, commerce et gestion et comptabilité",
+    "type": "Baccalauréat professionnel"
+  }],
+  "languages": [{
+    "languageId": "GlTo7OXUVG",
+    "title": "Français",
+    "levelTitle": "Langue maternelle",
+    "level": 5
+  }]
+}
